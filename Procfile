@@ -1,1 +1,1 @@
-web: java -jar target/jenkins-core-2.17-SNAPSHOT.jar
+web: java -jar war/target/jenkins.war
